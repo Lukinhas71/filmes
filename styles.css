@@ -1,0 +1,21 @@
+body{
+    color:aliceblue;
+    background:black;
+    margin: 0px;
+}
+
+header{
+    border: solid 2px darkorchid;
+    font-size: 52px;
+    padding: 20px;
+    color:darkorchid;  
+}
+
+section{
+    padding-bottom: 120px;
+    padding-top: 40px;
+    display: flex;
+    justify-content: center;
+    margin-right: 30px;
+    margin-top: 50px;
+}
